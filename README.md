@@ -4,7 +4,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Ruby
 - 🌱 I’m currently learning To be a full stack developer
 - 👯 I’m looking to collaborate on React projects
 - 🤔 I’m looking for help with creating a youtube channel
