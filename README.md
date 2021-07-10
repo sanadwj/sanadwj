@@ -13,7 +13,7 @@ A little more about me...
 class Sandoog
   def about
     pronouns = 😄 "He" or "Him"
-    hobbies = %w(Reading Drinking_coffe)
+    hobbies = %w(Reading Coding Drinking_coffe)
     colaboration =  👯 "Just cotact me at any time"
   end
 
